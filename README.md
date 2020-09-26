@@ -1,3 +1,3 @@
 # Clone kokoa
 
-CSS got to so mucj better!
+CSS got to so much better!
